@@ -2,15 +2,18 @@
   {
     "nom": "OK",
     "prenom": "FRED",
-    "phone": "12 34 56",
+    "tel": "12 34 56",
     "role": "OPR",
     "status": "disponible",
+    "tranche": "1"
   },
   {
     "nom": "KO",
     "prenom": "RICHARD",
-    "phone": "23 45 67",
+    "tel": "23 45 67",
     "role": "BAN",
     "status": "indisponible",
+    "tranche": "3"
   },
+
 ]
