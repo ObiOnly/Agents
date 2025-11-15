@@ -1,0 +1,16 @@
+[
+  {
+    "nom": "OK",
+    "prenom": "FRED",
+    "phone": "12 34 56",
+    "role": "OPR",
+    "status": "disponible",
+  },
+  {
+    "nom": "KO",
+    "prenom": "RICHARD",
+    "phone": "23 45 67",
+    "role": "BAN",
+    "status": "indisponible",
+  },
+]
